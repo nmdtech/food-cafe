@@ -10,8 +10,6 @@ Check out the live version:
 
 👉 [Old Cafe](https://old-cafe.nmdglobal.workers.dev/)
 
-*(Replace this link with the actual demo URL)*
-
 ## ☕ About The Project
 
 Cherry Party is a vintage-style cafe interface inspired by old-school website designs.
